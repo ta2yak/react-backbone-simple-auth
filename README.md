@@ -1,4 +1,10 @@
-react-backbone-simple-auth
-==========================
+# React & Backbone SimpleAuth Sample
 
-ReactとBackboneを用いた認証アプリのサンプル
+```
+npm install
+bower install
+node server.js
+```
+
+And visit http://localhost:3000/
+
