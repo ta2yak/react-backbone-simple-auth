@@ -1,7 +1,7 @@
 {
-  "name": "react-tutorial",
+  "name": "react-backbone-simple-auth",
   "version": "0.0.0",
-  "description": "Code from the React tutorial.",
+  "description": "React & Backbone  SimpleAuth Sample.",
   "main": "server.js",
   "dependencies": {
     "body-parser": "^1.4.3",
@@ -24,18 +24,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/reactjs/react-tutorial.git"
+    "url": "https://github.com/ta2yak/react-backbone-simple-auth.git"
   },
   "keywords": [
     "react",
     "tutorial",
-    "comment",
+    "backbone",
     "example"
   ],
-  "author": "petehunt",
+  "author": "ta2yak",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/reactjs/react-tutorial/issues"
+    "url": "https://github.com/ta2yak/react-backbone-simple-auth/issue"
   },
-  "homepage": "https://github.com/reactjs/react-tutorial"
+  "homepage": "https://github.com/ta2yak/react-backbone-simple-auth"
 }
